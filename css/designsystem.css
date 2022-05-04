@@ -1,0 +1,65 @@
+:root {
+   /* Palette */
+    
+    
+    /* 메인블루 */
+    --main-blue-1000:#030850;
+    --main-blue-900:#020A75;
+    --main-blue-800:#040F8E;
+    --main-blue-700:#0616B0;
+    --main-blue-600:#091ED2;
+    --main-blue-500:#0D28F5;
+    --main-blue-400:#485EF9;
+    --main-blue-300:#6C80FC;
+    --main-blue-200:#9DACFE;
+    --main-blue-100:#CED6FE;
+    
+    /* 배경색 */
+    --blueGray-1000:#0E1436;
+    --blueGray-900:#131C4B;
+    --blueGray-800:#202B5B;
+    --blueGray-700:#334071;
+    --blueGray-600:#4A5987;
+    --blueGray-500:#66759E;
+    --blueGray-400:#909FC4;
+    --blueGray-300:#B1C1E1;
+    --blueGray-200:#D2DEF5;
+    --blueGray-100:#F5F6FD;
+    
+    /* 기본 */
+    --basic-1000:#000000;
+    --basic-900:#121212;
+    --basic-800:#1D1D1D;
+    --basic-700:#252525;
+    --basic-600:#363636;
+    --basic-500:#4D4D4D;
+    --basic-400:#666666;
+    --basic-300:#B2B2B2;
+    --basic-200:#E5E5E5;
+    --basic-100:#F2F2F2;
+    --basic-000:#FFFFFF;
+
+}
+
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    font-family: source-han-sans-korean, sans-serif;
+}
